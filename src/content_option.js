@@ -1,11 +1,11 @@
-const logotext = "ASWIN";
+const logotext = "RAKSHITH";
 const meta = {
-    title: "Aswin P Kumar",
-    description: "I'm Aswin P Kumar, Student at VIT Bhopal University",
+    title: "Gangi Rakshith Raj",
+    description: "I'm Gangi Rakshith Raj, Student at VIT Bhopal University",
 };
 
 const introdata = {
-    title: "I'm Aswin P Kumar",
+    title: "I'm Gangi Rakshith Raj",
     animated: {
         first: "Full Stack Developer",
         second: "Application Developer",
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Who I am",
-    aboutme: "I'm Aswin P Kumar, a third-year undergraduate at VIT Bhopal University, majoring in Computer Science and Engineering. I hail from the serene backwaters of Alappuzha in Kerala. I'm a tech enthusiast with a penchant for MERN full stack development, and I've been known to Flutter around, creating sleek mobile apps with Kotlin and Dart. I've got a crush on Machine Learning and AI, and Data Analysis is my secret indulgence"
+    aboutme: "I'm Gangi Rakshith Raj, a third-year undergraduate at VIT Bhopal University, majoring in Computer Science and Engineering. I hail from the serene backwaters of Alappuzha in Kerala. I'm a tech enthusiast with a penchant for MERN full stack development, and I've been known to Flutter around, creating sleek mobile apps with Kotlin and Dart. I've got a crush on Machine Learning and AI, and Data Analysis is my secret indulgence"
     };
 const worktimeline = [{
         jobtitle: "Mern Full Stack Developer",
@@ -121,12 +121,12 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "aswinpkumar03@gmail.com",
+    YOUR_EMAIL: "rajrakshith66@gmail.com",
 };
 
 const socialprofils = {
-    github: "https://github.com/AswinPKumar01",
-    linkedin: "https://www.linkedin.com/in/aswinpkumarvit/",
+    github: "https://github.com/Rakshith-Raj08",
+    linkedin: "https://www.linkedin.com/in/rakshith-raj-b38936220/",
 };
 export {
     meta,
